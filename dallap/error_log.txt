@@ -1,0 +1,68 @@
+Player 1 played : P 1 3
+Time remaining is: 2000s
+You played : P 0 0
+Player 1 played : P 5 24
+Time remaining is: 2000s
+You played : P 1 4
+Player 1 played : P 4 11
+Time remaining is: 2000s
+You played : P 1 5
+Player 1 played : P 4 10
+Time remaining is: 2000s
+You played : P 1 0
+Player 1 played : P 5 22
+Time remaining is: 2000s
+You played : P 5 21
+Player 1 played : S 1 3 M 3 7
+Time remaining is: 2000s
+You played : S 0 0 M 2 6
+Player 1 played : S 3 7 M 3 6
+Time remaining is: 2000s
+You played : S 2 6 M 3 8
+Player 1 played : S 5 24 M 5 23
+Time remaining is: 2000s
+You played : S 1 4 M 2 7
+Player 1 played : S 4 11 M 3 9
+Time remaining is: 2000s
+You played : S 3 8 M 2 5
+Player 1 played : S 5 22 M 5 3
+Time remaining is: 2000s
+You played : S 2 5 M 1 2
+Player 1 played : S 3 9 M 4 12
+Time remaining is: 2000s
+You played : S 1 2 M 1 1
+Player 1 played : S 4 12 M 4 15
+Time remaining is: 2000s
+You played : S 1 1 M 2 1
+Player 1 played : S 5 3 M 3 5
+Time remaining is: 2000s
+You played : S 2 1 M 3 1 RS 3 8 RE 2 1 X 3 1
+Player 1 played : S 5 23 M 3 0
+Time remaining is: 2000s
+You played : S 1 5 M 2 10
+Player 1 played : S 3 5 M 2 5
+Time remaining is: 2000s
+You played : S 1 0 M 4 7
+Player 1 played : S 2 5 M 1 2
+Time remaining is: 2000s
+You played : S 2 10 M 3 15
+Player 1 played : S 1 2 M 1 1
+Time remaining is: 2000s
+You played : S 2 7 M 2 8
+Player 1 played : S 3 6 M 3 8
+Time remaining is: 2000s
+You played : S 3 15 M 4 21
+Player 1 played : S 4 10 M 5 16
+Time remaining is: 2000s
+You played : S 4 21 M 2 11
+Player 1 played : S 1 1 M 2 3
+Time remaining is: 2000s
+You played : S 2 8 M 3 13
+Player 1 played : S 2 3 M 4 2
+Time remaining is: 2000s
+You played : S 3 13 M 4 18
+Player 1 played : S 4 15 M 3 4
+Time remaining is: 2000s
+You played : S 4 18 M 4 19
+INVALID MOVE ON THIS CLIENT
+

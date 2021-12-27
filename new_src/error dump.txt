@@ -1,0 +1,50 @@
+Start
+{"action": "NORMAL", "meta": "", "data": "P 0 0"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "P 2 9"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "P 1 4"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "P 5 24"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "P 1 5"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "P 4 22"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "P 1 3"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "P 3 1"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "P 5 21"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "P 1 1"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 0 0 M 1 0"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 2 9 M 4 19"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 1 0 M 2 11"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 4 19 M 4 18"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 1 4 M 2 8"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 5 24 M 3 14"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 1 5 M 3 13"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 4 22 M 2 1"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 2 11 M 3 16"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 3 1 M 3 3"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 3 16 M 4 21"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 3 14 M 2 0"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 4 21 M 4 23"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 1 1 M 5 9"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 4 23 M 3 2"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 5 9 M 5 6"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 2 8 M 3 12"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 5 6 M 1 2"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 3 2 M 4 2"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 1 2 M 5 14"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 4 2 M 5 2"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 2 1 M 2 2"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 3 13 M 3 15"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 5 14 M 5 11"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 1 3 M 2 3 RS 4 19 RE 1 3 X 5 2"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 4 18 M 5 23"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 3 12 M 3 11"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 2 0 M 5 3"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 3 11 M 2 7"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 3 3 M 4 4"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 2 7 M 3 17"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 5 11 M 3 14"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 5 21 M 2 9"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 5 23 M 2 6"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 3 17 M 3 0"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 2 6 M 2 5"} Received from client 1
+{"action": "NORMAL", "meta": "", "data": "S 3 0 M 4 5"} Received from client 0
+{"action": "NORMAL", "meta": "", "data": "S 2 2 M 1 4"} Received from client 1
+{"action": "KILLPROC", "meta": "INVALID MOVE BY PLAYER 1", "data": ""} Received from client 0
